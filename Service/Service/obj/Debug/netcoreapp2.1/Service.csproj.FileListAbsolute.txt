@@ -1,0 +1,28 @@
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\bin\Debug\netcoreapp2.1\Service.runtimeconfig.json
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\bin\Debug\netcoreapp2.1\Service.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.pdb
+C:\Users\DELL\Desktop\Asp.net MVC LOL\7. ASP.NET + Vue.js\Proyecto con vue.js\Service\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\bin\Debug\netcoreapp2.1\Service.runtimeconfig.json
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\bin\Debug\netcoreapp2.1\Service.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\DELL\Desktop\Ronald\Materias de la universidad\5.Quinto Cuatrimetre\4.Programacion III\Tarea 2\Service\Service\obj\Debug\netcoreapp2.1\Service.pdb
